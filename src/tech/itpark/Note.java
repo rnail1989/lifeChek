@@ -13,7 +13,7 @@ public class Note {
         this.created = created;
     }
 
-    public int getId() {
+    public static int getId() {
         return id;
     }
 
@@ -45,4 +45,5 @@ public class Note {
         this.created = created;
     }
 }
+
 
